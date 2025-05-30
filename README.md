@@ -29,6 +29,7 @@ Na seção `postgres`, altere:
 
 #### Arquivo `.env`
 - Altere `DATABASE_CONNECTION_URI` com os dados de conexão PostgreSQL (usuário e senha definidos no passo anterior)
+Altere a versão do `CONFIG_SESSION_PHONE_VERSION` para: `2.3000.1023337412`
 - **Recomendação de Segurança**: Altere a chave padrão `AUTHENTICATION_API_KEY` para uma chave personalizada
 
 ### 3. Inicialização dos Containers
