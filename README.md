@@ -15,7 +15,7 @@ Antes de começar, certifique-se de ter instalado:
 ### 1. Download do Projeto
 Execute o comando para baixar o projeto:
 ```bash
-docker pull https://github.com/samuelzanatto/chatbot_n8n.git
+git clone https://github.com/samuelzanatto/chatbot_n8n.git
 ```
 
 ### 2. Configuração dos Arquivos
