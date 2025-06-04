@@ -142,7 +142,7 @@ Clique em **"Run"** e configure os Optional Settings:
 4. Mantenha Mode em **"Manual Mapping"**
 5. Adicione os campos clicando em **"Add Field"**:
 
-| Name | Value |
+| Name | Value (Arraste os dados do menu lateral esquerdo) |
 |------|-------|
 | Quem mandou | remoteJid |
 | Instância | instance |
