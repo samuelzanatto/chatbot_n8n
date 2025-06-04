@@ -206,8 +206,8 @@ Clique em **"Run"** e configure os Optional Settings:
 2. Configure:
    - **Recurso**: "Mensagem"
    - **Operação**: "Enviar Texto"
-   - **Nome da Instancia**: Mesmo dado anterior
-   - **Número do Destinatário**: Mesmo dado anterior
+   - **Nome da Instancia**: Arraste "Instancia"
+   - **Número do Destinatário**: Arraste "Quem mandou"
    - **Mensagem**: Arraste o output do "AI Agent"
 3. Em "Adicionar Campo" (Opções):
    - Adicione **"Delay"**: `3000`
